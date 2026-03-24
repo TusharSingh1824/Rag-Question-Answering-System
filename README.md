@@ -187,3 +187,4 @@ This project demonstrates a complete implementation of a RAG pipeline, combining
 * Documentation (`README.md`)
 * Requirements (`requirements.txt`)
 * Data (`document.txt`)
+* Proof of execution
